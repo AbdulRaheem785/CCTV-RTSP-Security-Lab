@@ -6,10 +6,6 @@
 </p>
 <p align="center">
 
-  <!-- MAIN BANNER IMAGE -->
-  <img src="banner.jpg" width="100%" alt="RTSP CCTV Security Lab Banner">
-
-</p>
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python)
@@ -18,6 +14,11 @@
 ![VLC](https://img.shields.io/badge/VLC-Validation-orange?style=for-the-badge&logo=vlcmediaplayer)
 ![Security Testing](https://img.shields.io/badge/Security-Assessment-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+</p>
+
+  <!-- MAIN BANNER IMAGE -->
+  <img src="banner.jpg" width="100%" alt="RTSP CCTV Security Lab Banner">
 
 </p>
 
