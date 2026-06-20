@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="disclaimer.png" width="100%" alt="Cybersecurity Lab Disclaimer Banner">
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=LEGAL+DISCLAIMER;CYBERSECURITY+ETHICAL+STATEMENT;AUTHORIZED+LAB+ONLY;NO+UNLAWFUL+ACTIVITY+SUPPORTED" />
 </p>
