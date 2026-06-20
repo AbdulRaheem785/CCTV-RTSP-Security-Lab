@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="banner.png" width="100%" alt="RTSP CCTV Security Assessment Banner">
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=RTSP+Security+Assessment+Summary;CCTV+%2F+IP+Camera+Lab+Analysis;Network+Reconnaissance+%7C+Service+Enumeration;Controlled+Cybersecurity+Testing+Environment" />
 </p>
