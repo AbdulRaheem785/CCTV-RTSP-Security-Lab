@@ -7,7 +7,7 @@
 <p align="center">
 
   <!-- MAIN BANNER IMAGE -->
-  <img src="banner.png" width="100%" alt="RTSP CCTV Security Lab Banner">
+  <img src="banner.jpg" width="100%" alt="RTSP CCTV Security Lab Banner">
 
 </p>
 <p align="center">
