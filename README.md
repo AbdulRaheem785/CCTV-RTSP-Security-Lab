@@ -1,9 +1,25 @@
-# 📹 RTSP Security Assessment Lab
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdulRaheem785&label=Repository+Views&color=blue&style=for-the-badge">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=800&lines=RTSP+SURVEILLANCE+SECURITY+LAB;CAMERA+SERVICE+ENUMERATION;NETWORK+RECON+%7C+NMAP+%7C+PYTHON;AUTHENTICATION+TESTING+IN+LAB+ENVIRONMENT;AUTHORIZED+PENTEST+SIMULATION" />
+</p>
+<p align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Discovery-green)
-![RTSP](https://img.shields.io/badge/Protocol-RTSP-red)
+  <!-- MAIN BANNER IMAGE -->
+  <img src="banner.png" width="100%" alt="RTSP CCTV Security Lab Banner">
+
+</p>
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python)
+![RTSP](https://img.shields.io/badge/Protocol-RTSP-red?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Service_Discovery-blue?style=for-the-badge)
+![VLC](https://img.shields.io/badge/VLC-Validation-orange?style=for-the-badge&logo=vlcmediaplayer)
+![Security Testing](https://img.shields.io/badge/Security-Assessment-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+</p>
 
 ## Overview
 
