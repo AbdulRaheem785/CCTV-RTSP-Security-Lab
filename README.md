@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=AbdulRaheem785&label=Repository+Views&color=blue&style=for-the-badge">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=800&lines=RTSP+SURVEILLANCE+SECURITY+LAB;CAMERA+SERVICE+ENUMERATION;NETWORK+RECON+%7C+NMAP+%7C+PYTHON;AUTHENTICATION+TESTING+IN+LAB+ENVIRONMENT;AUTHORIZED+PENTEST+SIMULATION" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=RTSP+Security+Assessment+Lab;IP+Camera+Service+Discovery+%7C+Enumeration;Network+Reconnaissance+using+Nmap;RTSP+Stream+Validation+in+Controlled+Lab;Cybersecurity+VAPT+Practice+Project" />
 </p>
 <p align="center">
 
