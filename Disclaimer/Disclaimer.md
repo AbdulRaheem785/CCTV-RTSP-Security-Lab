@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Cybersecurity Lab Disclaimer Banner">
+  <img src="disclaimer.png" width="100%" alt="Cybersecurity Lab Disclaimer Banner">
 </p>
 
 <p align="center">
